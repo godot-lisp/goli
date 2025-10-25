@@ -1,0 +1,7 @@
+This Project Is 
+Under Either:
+
+The MIT License, or
+The Apache2 License
+
+At Your Option.
